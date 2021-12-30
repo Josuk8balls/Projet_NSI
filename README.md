@@ -1,22 +1,29 @@
-# Projet_NSI    ----    FSN_REMAKE
+# Projet_NSI    ----    Arknight_mini
 
 
 
-  Fate stay night is old 
-
-  Evolution has to be done 
-
-  Visual novel is history 
-
-  Now it's the day of tower defense!
+  I would really like to do a game
   
+  About the great saga of fate
   
-  ![image](https://user-images.githubusercontent.com/90462079/147762557-dcfd841c-dcb0-42ad-812f-82194a228634.png)
+  With Rin, Saber and Sakura
+  
+  But that bloody game is a p2p
+  
+  So I can't get any f*ing image or soundtrack on web :(
+  
+  A saber with out EX CULIBUURRR is a joke
+  
+  So i decided to become nerder
+   
+  I will do a game about Arknight :)
+  
+  ![image](https://user-images.githubusercontent.com/90462079/147766910-b759552c-85b4-4c09-9f64-e93955d521ef.png)
 
 
 
 
-Un jeux de tower defense réalisé avec pygame qui renouvelle l'histoire du Fate stay night :
+Un jeux de tower defense réalisé avec pygame come celle d'Arknight :
 
 
   - Utiliser le clic gauche de votre souris pour choisir votre passonnage et glisser la sur le terrain pour l'employer
