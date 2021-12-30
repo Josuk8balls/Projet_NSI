@@ -35,6 +35,6 @@ Un jeux de tower defense réalisé avec pygame come celle d'Arknight :
 
 
 Classe : 
-  - Servant(attaque, toucher, vie, gg, spe_att ...)
+  - Operateur(attaque, toucher, vie, gg, spe_att ...)
   - Monster(attaque, toucher, vie, gg, spe_att ...)
   - Map(creation)
