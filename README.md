@@ -11,7 +11,7 @@
   Now it's the day of tower defense!
   
   
-  [image](https://user-images.githubusercontent.com/90462079/146457479-30966c6c-87cf-4a0c-8d2b-c6169902ed73.png)
+  https://user-images.githubusercontent.com/90462079/146457479-30966c6c-87cf-4a0c-8d2b-c6169902ed73.png
 
 
 
