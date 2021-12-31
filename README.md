@@ -10,7 +10,7 @@
   
   But that bloody game is a p2p
   
-  So I can't get any f*ing image or soundtrack on web :(
+  So I can't get any image or soundtrack on web :(
   
   A saber with out EX CULIBUURRR is a joke
   
