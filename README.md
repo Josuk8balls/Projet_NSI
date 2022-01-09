@@ -36,7 +36,7 @@ D’après les règles un feeding frenzy, les fonctions suivantes ont été réa
 
 （14）Si le personnage est manger, le jeux s’arrête 
 
-（15）A good Game has JoJo reference
+（15）A good game has JoJo reference
 
 （16）Thanks to Akshey who inspired me soooooo much for this game
 
