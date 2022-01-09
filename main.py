@@ -224,7 +224,7 @@ def main():
                 pygame.mixer.music.stop()
                 die_sound.play()
                 paused = True
-                load_text("Wryyyyyyyyyyyyy" ,30,(255,0,0),(300,200))
+                load_text("To Be Continued" ,30,(255,0,0),(300,200))
                  
         
         pygame.display.flip()
