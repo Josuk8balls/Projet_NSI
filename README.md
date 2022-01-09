@@ -1,29 +1,41 @@
-# Nickocado au buffet
-  
-  
-  Nicko veut manger des fastfood 
-  
-  Nicko ne veut pas faire du sport 
-  
-  Fastfood forever  ヾ(≧▽≦*)o
-  
-  Mais il y a des méchants qui n'aiment pas le fastfood  (ー`´ー)
- 
- Et des fastfood qui n'aiment pas nicko <(－︿－)>
- 
- Very sad but whatever ...
- 
- Nicko veut manger （ ￣ー￣）
-  
-
- Un jeux de feeding frenzy crée avec pygame
- 
- Le joueur a pour but de controler Nicko avec son souris et l'aider à manger les nourritures qui essaient de s'échapper
- 
- Fait attention au Gordon Ramsay et The Rock qui peuvent apparaitrent pour arreter Nicko !!!
-  
+# “Nickocado_at_buffet”
 
 
-Huge thank to Akshey who inspired me so much for this      ヾ(^▽^*)))
-  
 
+
+“Nickocado_at_buffet” est un jeux crée avec pygame，qui reprend les règles du jeux feeding frenzy.
+
+
+
+
+Fonction réalisée:
+
+D’après les règles un feeding frenzy, les fonctions suivantes ont été réalisé ：
+
+（1）	Des effets sonores et un music d’arrière plan
+
+（2）Le jeux peut être mise en pause
+
+（3）Les proies peuvent changer leurs sens de parcours
+
+（4）Le personnage peut grandir et se tourner
+
+（5）Le personnage suit le curseur du joueur
+
+（6）Le personnage se tourne envers sa direction
+
+（8）Les proies apparient des deux côtés de l’écran 
+
+（9）Les plus grands mangent les plus petits
+
+（10）Les plus grands chassent les plus petits
+
+（11）Les plus petits fuient les plus grands
+
+（12）Le scores du joueur est indiqué
+
+（14）Si le personnage est manger, le jeux s’arrête 
+
+（15）A good Game has JoJo reference
+
+ (16) Thanks to Akshey who inspired me sooooooo much for this game
