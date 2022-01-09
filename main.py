@@ -10,7 +10,7 @@ import food
 pygame.init()
 bg_size = width,height = 850,600
 screen = pygame.display.set_mode(bg_size)
-pygame.display.set_caption("nicaubuffer")
+pygame.display.set_caption("nicaubuffet")
 clock = pygame.time.Clock()
 
 #soul 
