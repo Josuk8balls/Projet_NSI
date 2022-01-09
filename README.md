@@ -1,40 +1,19 @@
-# Projet_NSI    ----    Arknight_mini
-
-
-
-  I would really like to do a game
+# Nickocado au buffer
   
-  About the great saga of fate
   
-  With Rin, Saber and Sakura
+  Nicko veut manger des fastfood 
+  Nicko ne veut pas faire du sport 
+  Fastfood forever  ヾ(≧▽≦*)o
+  Mais il y a des méchants qui n'aiment pas le fastfood  (ー`´ー)
+  Et des fastfood qui n'aiment pas nicko <(－︿－)>
+  Very sad but whatever ...
+  Nicko veut manger （ ￣ー￣）
   
-  But that bloody game is a p2p
+  Un jeux de feeding frenzy crée avec pygame
+  Le joueur a pour but de controler Nicko avec son souris et l'aider à manger les nourritures qui essaient de s'échapper
+  Fait attention au Gordon Ramsay et The Rock qui peuvent apparaitrent pour arreter Nicko !!!
   
-  So I can't get any image or soundtrack on web :(
+
+  Huge thank to Akshey who inspired me so much for this      ヾ(^▽^*)))
   
-  A saber with out EX CULIBUURRR is a joke
-  
-  So i decided to become nerder
-   
-  I will do a game about Arknight :)
-  
-  ![image](https://user-images.githubusercontent.com/90462079/147766910-b759552c-85b4-4c09-9f64-e93955d521ef.png)
 
-
-
-
-Un jeux de tower defense réalisé avec pygame come celle d'Arknight :
-
-
-  - Utiliser le clic gauche de votre souris pour choisir votre passonnage et glisser la sur le terrain pour l'employer
-
-  - Utiliser le clic droit de votre souris sur votre personnage pour lancer une attaque spéciale 
-
-  - Les ennemies peuvent vous faire du mal ! Si vous laisser votre personnage sous l'attaque trop long temps il peut être éliminer !
-
-
-
-Classe : 
-  - Operator(attaque, toucher, vie, gg, spe_att ...)
-  - Monster(attaque, toucher, vie, gg, spe_att ...)
-  - Map(creation)
