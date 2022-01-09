@@ -121,7 +121,6 @@ def nicko_collide(nic):
                     nic.score += 40
             #nicko get hit
             else:
-                eat_sound.play()
                 nic.live = False
          
                 
